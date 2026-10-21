@@ -28,7 +28,7 @@ We design and develop modern web applications, scalable digital platforms, and c
 
 ## 👋 Who We Are
 
-**Code3 Innovative Solutions (C3IS)** is a technology company focused on creating modern, reliable, and scalable digital experiences.
+**Code3 Innovative Solutions (CODE3IS)** is a technology company focused on creating modern, reliable, and scalable digital experiences.
 
 We bring together engineering, design, and technology to build solutions that address real-world business challenges.
 
